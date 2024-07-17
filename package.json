@@ -1,0 +1,27 @@
+{
+  "name": "workspace-management-util",
+  "version": "1.0.0",
+  "description": "Provides tools for managing project workspaces adhering to specific formats.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciacob/workspace-management-util.git"
+  },
+  "keywords": [
+    "workspace",
+    "project",
+    "management"
+  ],
+  "author": "Claudius Iacob <claudius.iacob@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ciacob/workspace-management-util/issues"
+  },
+  "homepage": "https://github.com/ciacob/workspace-management-util#readme",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
